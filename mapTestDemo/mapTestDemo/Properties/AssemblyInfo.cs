@@ -10,7 +10,7 @@ using Android.App;
 [assembly: AssemblyConfiguration ("")]
 [assembly: AssemblyCompany ("")]
 [assembly: AssemblyProduct ("")]
-[assembly: AssemblyCopyright ("mcsinh-mac-pro")]
+[assembly: AssemblyCopyright ("mac-pro")]
 [assembly: AssemblyTrademark ("")]
 [assembly: AssemblyCulture ("")]
 

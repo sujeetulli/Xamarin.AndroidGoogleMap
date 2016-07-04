@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <AdditionalAndroidResourcePaths>/Users/mcsinh-mac-pro/.local/share/Xamarin/Android.Support.v4/23.0.1.3/embedded;/Users/mcsinh-mac-pro/.local/share/Xamarin/GooglePlayServices.Basement/8.1.0/embedded;/Users/mcsinh-mac-pro/.local/share/Xamarin/GooglePlayServices.Base/8.1.0/embedded;/Users/mcsinh-mac-pro/.local/share/Xamarin/GooglePlayServices.Maps/8.1.0/embedded</AdditionalAndroidResourcePaths>
+  <AdditionalJavaLibraryReferences>/Users/mcsinh-mac-pro/.local/share/Xamarin/Android.Support.v4/23.0.1.3/embedded/classes.jar;/Users/mcsinh-mac-pro/.local/share/Xamarin/Android.Support.v4/23.0.1.3/embedded/libs/internal_impl-23.0.1.jar;/Users/mcsinh-mac-pro/.local/share/Xamarin/GooglePlayServices.Basement/8.1.0/embedded/classes.jar;/Users/mcsinh-mac-pro/.local/share/Xamarin/GooglePlayServices.Base/8.1.0/embedded/classes.jar;/Users/mcsinh-mac-pro/.local/share/Xamarin/GooglePlayServices.Maps/8.1.0/embedded/classes.jar</AdditionalJavaLibraryReferences>
+  <AdditionalNativeLibraryReferences></AdditionalNativeLibraryReferences>
+</Paths>

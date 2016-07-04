@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="mapTestDemo/mapTestDemo.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="Android.Xamarin_Android_API_21" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mapTestDemo/Properties/AndroidManifest.xml">
+    <Files>
+      <File FileName="mapTestDemo/Properties/AndroidManifest.xml" Line="43" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.mapTestDemo AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

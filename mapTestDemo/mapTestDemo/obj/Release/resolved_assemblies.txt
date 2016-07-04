@@ -1,0 +1,12 @@
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/mapTestDemo.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/System.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/System.Xml.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/Mono.Android.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/Xamarin.Android.Support.v4.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/Xamarin.GooglePlayServices.Basement.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/Xamarin.GooglePlayServices.Base.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/Xamarin.GooglePlayServices.Maps.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/System.Core.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/mscorlib.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/System.Runtime.Serialization.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Release/android/assets/System.ServiceModel.Internals.dll

@@ -1,0 +1,10 @@
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/mapTestDemo.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/System.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/System.Xml.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/Mono.Android.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/Xamarin.Android.Support.v4.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/Xamarin.GooglePlayServices.Basement.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/Xamarin.GooglePlayServices.Base.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/Xamarin.GooglePlayServices.Maps.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/System.Core.dll
+/Users/mcsinh-mac-pro/Projects/mapTestDemo/mapTestDemo/obj/Debug/assemblies/mscorlib.dll
